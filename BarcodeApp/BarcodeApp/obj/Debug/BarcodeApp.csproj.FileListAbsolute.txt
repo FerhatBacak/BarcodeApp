@@ -1,0 +1,10 @@
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\bin\Debug\BarcodeApp.exe.config
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\bin\Debug\BarcodeApp.exe
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\bin\Debug\BarcodeApp.pdb
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.csproj.AssemblyReference.cache
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.Form1.resources
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.Properties.Resources.resources
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.csproj.GenerateResource.cache
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.csproj.CoreCompileInputs.cache
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.exe
+C:\Users\UserXd\source\repos\BarcodeApp\BarcodeApp\obj\Debug\BarcodeApp.pdb
